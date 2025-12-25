@@ -1,4 +1,4 @@
-# 🧮 Multi-Purpose Python Calculator
+# Python Calculator
 
 A comprehensive Desktop application built with **Python** and **Tkinter**. This is not just a simple calculator; it’s a productivity suite featuring a built-in **Unit Converter** and **Compound Interest Calculator**.
 
@@ -29,7 +29,7 @@ Convert values across multiple categories including:
 ---
 
 ## 🛠️ Built With
-* **Python 3.x**
+* **Python 3.13**
 * **Tkinter:** Standard GUI library.
 * **Ttk (Themed Tkinter):** Used for advanced dropdown menus (Comboboxes).
 
