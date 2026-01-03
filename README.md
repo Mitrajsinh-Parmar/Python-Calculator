@@ -1,6 +1,6 @@
 # Python Calculator
 
-A comprehensive Desktop application built with **Python** and **Tkinter**. This is not just a simple calculator; it’s a productivity suite featuring a built-in **Unit Converter** and **Compound Interest Calculator**.
+A comprehensive Calculator built with **Python** and **Tkinter**. This is not just a simple calculator; it’s a productivity suite featuring a built-in **Unit Converter** and **Compound Interest Calculator**.
 
 ---
 
