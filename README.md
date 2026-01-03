@@ -11,7 +11,7 @@ A comprehensive Calculator built with **Python** and **Tkinter**. This is not ju
 * Interactive grid layout with a "Clear" (C) function.
 * Error handling for invalid mathematical expressions.
 
-### 2. Unit Converter 📏
+### 2. Unit Converter 
 Convert values across multiple categories including:
 * **Distance:** km, m, cm, mile, yard, inch.
 * **Mass:** kg, g, mg, ton, lb, oz.
@@ -19,7 +19,7 @@ Convert values across multiple categories including:
 * **Data:** MB, KB, GB, TB, Byte.
 * **Area & Volume:** Comprehensive metric and imperial units.
 
-### 3. Interest Calculator 💰
+### 3. Interest Calculator
 * Calculates **Compound Interest** based on principal, rate, time, and compounding frequency.
 * Displays both the interest earned and the total final amount.
 
